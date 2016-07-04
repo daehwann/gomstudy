@@ -1,2 +1,2 @@
-# gomstudy
-Gom Study
+# Gom Study
+Gom Study is a LMS
